@@ -29,5 +29,8 @@ studentid is partition key
 student address is sort kkey 
 combination of partition + sort => composite private key 
 
-
+Above in index.js file
 DynamoDB insert Query with NodeJS
+DynamoDB fetch data using query  & scan  with nodejs
+DynamoDB query method with key condition expression
+DynamoDB update and delete with nodejs 
